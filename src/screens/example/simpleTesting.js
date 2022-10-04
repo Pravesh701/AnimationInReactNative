@@ -1,3 +1,6 @@
-export default function simpleTesting() { }
+export default function simpleTesting() { 
+    console.log('hello');
+}
+
 
 
